@@ -21,3 +21,7 @@ o
 ?nhn-mart-문제/src/main/java/com/nhnacademy/mart/Customer.java,f/b/fb187457802fefaa174cdd09c964bbda95eea5c1
 G
 nhn-mart-문제/pom.xml,9/c/9c603947a112f11baa42e1e7e0fc02480b2affd0
+o
+?nhn-mart-문제/src/main/java/com/nhnacademy/mart/MyLogger.java,a/f/af30979c3739657c9acff09529a698178a4659da
+l
+<nhn-mart-문제/src/test/com/nhnacademy/mart/BasketTest.java,5/6/569a9cb070e414713b2c2d63d6d099ac0ff6dec5
