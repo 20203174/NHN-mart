@@ -1,0 +1,11 @@
+
+t	java:S127I"XRefactor the code in order to not assign to this loop counter from within the loop body.(´™ß×8Œ¬‘£¥1
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“¬Ââ8Ø¬‘£¥1
+G	java:S106B"+Replace this use of System.out by a logger.(Î½¶¸8Ù¬‘£¥1
+I
+java:S1125U"'Remove the unnecessary boolean literal.(Ô“˜Šûÿÿÿÿ8Û¬‘£¥1
+G	java:S106e"+Replace this use of System.out by a logger.(ĞËë‚8Û¬‘£¥1
+L	java:S106f"+Replace this use of System.out by a logger.(ßğêÄûÿÿÿÿ8Û¬‘£¥1
+G
+java:S1068"*Remove this unused "logger" private field.(©“Í8Œô£¥1
