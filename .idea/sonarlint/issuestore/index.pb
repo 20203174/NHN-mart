@@ -25,3 +25,15 @@ o
 ?nhn-mart-문제/src/main/java/com/nhnacademy/mart/MyLogger.java,a/f/af30979c3739657c9acff09529a698178a4659da
 l
 <nhn-mart-문제/src/test/com/nhnacademy/mart/BasketTest.java,5/6/569a9cb070e414713b2c2d63d6d099ac0ff6dec5
+j
+:nhn-mart-문제/src/test/com/nhnacademy/mart/FoodTest.java,0/6/06a2a15330db5c90b8c0efc89b19c9997d8ed8ac
+n
+>nhn-mart-문제/src/test/com/nhnacademy/mart/CustomerTest.java,9/e/9eab59094e0d3419fdffba11283e340af8849eb4
+m
+=nhn-mart-문제/src/test/com/nhnacademy/mart/BuyListTest.java,2/8/28245e7750dc4226efd4f7ee158e3263456d7d22
+m
+=nhn-mart-문제/src/test/com/nhnacademy/mart/CounterTest.java,b/8/b82177b3d6c1ca896a80a6cc48eadc7725211c1b
+o
+?nhn-mart-문제/src/test/com/nhnacademy/mart/FoodStandTest.java,5/f/5fb06e4b5dfd7e49b08d327553ef91462bc19089
+m
+=nhn-mart-문제/src/test/com/nhnacademy/mart/NhnMartTest.java,4/3/435ba380e9c0d8edb744e5dbed84a82b1b859559

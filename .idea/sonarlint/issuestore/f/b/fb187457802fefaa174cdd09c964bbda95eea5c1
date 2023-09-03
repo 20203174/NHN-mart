@@ -1,9 +1,8 @@
 
-t	java:S127F"XRefactor the code in order to not assign to this loop counter from within the loop body.(´™ß×8ş¯¤¥1
+t	java:S127K"XRefactor the code in order to not assign to this loop counter from within the loop body.(İáºı8ì‹Ÿ¸¥1
 o
-java:S37761"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“¬Ââ8Úş¯¤¥1
-G	java:S106?"+Replace this use of System.out by a logger.(Î½¶¸8Ûş¯¤¥1
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“¬Ââ8ÁŒŸ¸¥1
 I
-java:S1125S"'Remove the unnecessary boolean literal.(Ô“˜Šûÿÿÿÿ8Üş¯¤¥1
-G	java:S106e"+Replace this use of System.out by a logger.(ĞËë‚8İş¯¤¥1
-L	java:S106f"+Replace this use of System.out by a logger.(ßğêÄûÿÿÿÿ8İş¯¤¥1
+java:S1125Z"'Remove the unnecessary boolean literal.(Ô“˜Šûÿÿÿÿ8ÄŒŸ¸¥1
+G	java:S106m"+Replace this use of System.out by a logger.(ĞËë‚8ÅŒŸ¸¥1
+L	java:S106n"+Replace this use of System.out by a logger.(æâÒáûÿÿÿÿ8ÅŒŸ¸¥1
